@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "終電でつれだして",
+  "base_artist": "RuLu",
+  "createdAt": "2026-02-09T08:19:38.064912Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "終電でつれだして",
+      "artist": "RuLu",
+      "has_synced": false,
+      "path": "select/pl_01_終電でつれだして_RuLu.txt"
+    }
+  ]
+}
